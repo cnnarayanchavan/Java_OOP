@@ -1,2 +1,2 @@
 # Java_OOP
-object oriented programing system
+object oriented programming system
