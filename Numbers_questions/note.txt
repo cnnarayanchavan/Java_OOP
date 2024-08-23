@@ -1,0 +1,8 @@
+1. Reverse the number
+2. Armstrong
+3. countDigits
+4. factorial
+5. fibonachi
+6. palindrome
+7. prime
+8. reverse 
