@@ -10,7 +10,7 @@ public class StaticMethodOverriding {
 
 class A {
     
-    private void printInfo(){
+    public void printInfo(){
         System.out.println("i am in method A!");
     }
     
@@ -26,7 +26,7 @@ class B extends A {
         System.out.println("i am in Config B!");
     }
     
-   private void printInfo(){
+   public void printInfo(){
         System.out.println("i am in method B!");
     }
 }
